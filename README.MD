@@ -14,7 +14,7 @@
 
 
 <h2 align="center">
- https://discord.gg/CaCv9qpa
+ https://discord.gg/osponsor
 </h2>
 
 **NOTE:** 
@@ -27,7 +27,7 @@ This software was made for personal **education** and **sandbox testing**
 
 
 ## <a id="content"></a>🌐 〢 Content
-- [🌌・Discord](https://discord.gg/CaCv9qpa)
+- [🌌・Discord](https://discord.gg/osponsor)
 - [🎉・Setting up Serial](#setup)
 - [🔰・Features](#features)
 - [👁️・Features Explanation](#explanation)
@@ -47,7 +47,7 @@ This software was made for personal **education** and **sandbox testing**
 6. You have your .exe/.py file enjoy
 
 <div align="center">
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/ShamanOracle/Assets/main/output-onlinegiftools.gif"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="hhttps://raw.githubusercontent.com/Serial/Assets/main/Serial.png"></img>
 </div>
 
 
@@ -99,7 +99,7 @@ This software was made for personal **education** and **sandbox testing**
 
 
 ## <a id="explanation"></a>👁️ 〢 Explanations of Features and options
-![](https://raw.githubusercontent.com/ShamanOracle/Assets/main/nolaygui.png)
+![](https://raw.githubusercontent.com/Serial/Assets/main/Serial.png)
 
 
 ## <a id="changelog"></a>💭 〢 ChangeLog
@@ -159,16 +159,11 @@ v3: 2023-23-03 BUILDER UPDATE
 
 
 ### Authors
-- [Shaman](https://github.com/blackkface)
-- [Nolay](https://github.com/blackkface)
-- [Katashi](https://github.com/0xKatashiOracle)
 - [blackface](https://github.com/blackkface)
-- [Choumi1](https://github.com/choumi1)
 - [Irax](https://github.com/IrxOracle)
-- [M4t](https://github.com/M4T-Dev)
 
 ### Contributors
-- [JuliusIII](https://github.com/JuliusOracle)
+- [blackface](https://github.com/blackkface)
 
 
 
@@ -185,4 +180,4 @@ v3: 2023-23-03 BUILDER UPDATE
 
 
 <a href=#top>Back to Top</a></p>
-![](https://raw.githubusercontent.com/ShamanOracle/Assets/main/output-onlinegiftools.gif)
+![](https://raw.githubusercontent.com/Serial/Assets/main/Serial.png)

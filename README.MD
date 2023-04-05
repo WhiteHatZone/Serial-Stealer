@@ -4,16 +4,12 @@
 </h1>
 
 
-![](https://raw.githubusercontent.com/ShamanOracle/Assets/main/triquetra-wallpaper-2560x800_59.jpg)
-
-
-
 
 ![](https://raw.githubusercontent.com/ShamanOracle/Assets/main/fullyundetect.png)
 ##### Serial's Code is fully undetectable, the only detections are the fault of pyinstaller we recommend to use Cx_Freeze to compile it.
 
 
-##### [:gem: Premium](https://discord.gg/CaCv9qpa)
+##### [:gem: Premium](https://discord.gg/osponsor)
 
 
 

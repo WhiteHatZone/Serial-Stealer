@@ -47,7 +47,7 @@ This software was made for personal **education** and **sandbox testing**
 6. You have your .exe/.py file enjoy
 
 <div align="center">
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="hhttps://raw.githubusercontent.com/Serial/Assets/main/Serial.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/blackkface/Serial-Stealer/main/Serial_assets/img/serial.png"></img>
 </div>
 
 
@@ -99,7 +99,7 @@ This software was made for personal **education** and **sandbox testing**
 
 
 ## <a id="explanation"></a>👁️ 〢 Explanations of Features and options
-![](https://raw.githubusercontent.com/Serial/Assets/main/Serial.png)
+![](https://raw.githubusercontent.com/blackkface/Serial-Stealer/main/Serial_assets/img/serial.png)
 
 
 ## <a id="changelog"></a>💭 〢 ChangeLog
@@ -180,4 +180,4 @@ v3: 2023-23-03 BUILDER UPDATE
 
 
 <a href=#top>Back to Top</a></p>
-![](https://raw.githubusercontent.com/Serial/Assets/main/Serial.png)
+![](https://raw.githubusercontent.com/blackkface/Serial-Stealer/main/Serial_assets/img/serial.png)

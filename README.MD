@@ -99,7 +99,7 @@ This software was made for personal **education** and **sandbox testing**
 
 
 ## <a id="explanation"></a>👁️ 〢 Explanations of Features and options
-![](https://raw.githubusercontent.com/blackkface/Serial-Stealer/main/Serial_assets/img/serial.png)
+![](https://raw.githubusercontent.com/blackkface/panel/main/Capture%20d'%C3%A9cran%202023-04-05%20230504.png?token=GHSAT0AAAAAAB75SRP37O7YE4WGEGH4C2KYZBN4LWA)
 
 
 ## <a id="changelog"></a>💭 〢 ChangeLog
